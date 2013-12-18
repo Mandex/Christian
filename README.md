@@ -3,7 +3,7 @@ Christian
 
 Fantastic
 
-Leader == Gasis, Christian
+Leader == Gasis, Christian Ray
 
 Members:
         Armando,Gonzalgo
