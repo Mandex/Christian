@@ -3,8 +3,10 @@ Christian
 
 Fantastic
 
-Leader == Gasis, Christian Ray
+Leader == Gasis, Christian
 
 Members:
         Armando,Gonzalgo
         Densing,Mary Mae
+
+Hi there!
